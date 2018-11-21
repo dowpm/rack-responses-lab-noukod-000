@@ -5,6 +5,6 @@ class Application
 
     res.finish
   end
-  
+
 end
   
